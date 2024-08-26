@@ -1,4 +1,4 @@
-#Quete pour le serveur boite mail 
+# Quete pour le serveur boite mail 
 
 Informations pour le Serveur SMTP 
 
@@ -11,4 +11,4 @@ Informations pour le serveur IMAP
 
 Chemin du fichier de sauvegarde des mails du dossier Mes Archives sur le PC 
 
-##C:/Users/jerome/AppData/Roaming/Thunderbird/Profiles/lh1cam06.default-esr/Mail/Local Folders/Mes archives   
+## C:/Users/jerome/AppData/Roaming/Thunderbird/Profiles/lh1cam06.default-esr/Mail/Local Folders/Mes archives   
